@@ -1,0 +1,26 @@
+{
+  "name": "node.js_hw_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VVassille/Node.js_HW_12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/VVassille/Node.js_HW_12/issues"
+  },
+  "homepage": "https://github.com/VVassille/Node.js_HW_12#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongodb": "^7.9.1"
+  }
+}
